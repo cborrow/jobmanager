@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exe",
+				"executable_path"
+			],
+			[
+				"Ene",
+				"EnemyAircraft"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"orig",
+				"originalWhereCount"
+			],
+			[
+				"noteL",
+				"noteListItem"
+			],
+			[
+				"get",
+				"getBoundingClientRect"
+			],
+			[
+				"remo",
+				"removeAllActiveIndicators"
+			],
+			[
+				"inline-",
+				"inline-flex\tdisplay"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"modal",
+				"modal-popup-content"
+			],
+			[
+				"terr",
+				"terrainDist"
+			],
+			[
+				"ter",
+				"terrainDist"
+			],
+			[
+				"min",
+				"minutes"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"getEle",
+				"getElementsByClassName"
+			],
+			[
+				"titl",
+				"titleList"
+			],
+			[
+				"tit",
+				"titleList"
+			],
+			[
+				"val",
+				"validator"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"htmlsp",
+				"htmlspecialchars_decode"
+			],
+			[
+				"sear",
+				"searchResult"
+			],
+			[
+				"findI",
+				"findItemsAdvancedResponse"
+			],
+			[
+				"check",
+				"checkForPriceUpdates"
+			],
+			[
+				"curre",
+				"currentPrice"
+			],
+			[
+				"e",
+				"pointer"
+			],
+			[
+				"req",
+				"request"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pthon",
+				"Set Syntax: Python"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/jobmanager"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/gsm/GSM-Web/app/GameServer.php",
+		"/C/wamp64/www/gsm/GSM-Web/public/js/web.js",
+		"/C/wamp64/www/gsm/GSM-Web/routes/web.php",
+		"/C/wamp64/www/gsm/GSM-Web/resources/views/gameservers/index.blade.php",
+		"/C/Users/npcpro/Desktop/Test Level/Level.xml",
+		"/E/Customers/Hoover/old_laptop_drive/Copy_Files_to_External.bat",
+		"/C/Temp/csv/List_Part1.csv",
+		"/C/Temp/csv/List_Part2.csv",
+		"/C/Temp/csv/All.csv",
+		"/C/Users/npcpro/source/repos/POM_CSV_Join/POM_CSV_Join/bin/Debug/All.csv",
+		"/C/Temp/csv/PatList.csv",
+		"/C/Users/npcpro/Desktop/Data/All.csv",
+		"/C/Temp/csv/PatList_Part2.csv",
+		"/C/Temp/csv/PatList_Part1.csv",
+		"/H/PatList.csv",
+		"/C/Users/npcpro/source/repos/POM_CSV_Join/POM_CSV_Join/bin/Debug/List_Part2.csv",
+		"/C/Users/npcpro/source/repos/POM_CSV_Join/POM_CSV_Join/bin/Debug/List_Part1.csv",
+		"/C/Users/npcpro/Desktop/Azure Domain Setup/Install_and_Configure_Azure_Virtual_Network.txt",
+		"/C/Users/npcpro/Desktop/Azure Domain Setup/Install_Azure_Certificates.ps1",
+		"/C/Users/npcpro/Desktop/Azure_VN_Install.ps1",
+		"/C/Users/npcpro/Desktop/adobekey.js",
+		"/C/Users/npcpro/source/repos/2DAirCombat/2DAirCombat/Content/Fonts/HUDFont.spritefont",
+		"/G/2DAirCombat/2DAirCombat/Content/Fonts/DebugFont.spritefont",
+		"/C/Users/npcpro/AppData/Local/Temp/Temp1_undeluxesrc.zip/undeluxe.c",
+		"/C/wamp64/www/worklogs/.env",
+		"/C/wamp64/www/worklogs/database/migrations/2019_02_04_181803_create_tasks_table.php",
+		"/C/wamp64/www/worklogs/database/migrations/2019_02_04_181722_create_jobs_table.php",
+		"/C/wamp64/www/worklogs/app/Job.php",
+		"/C/wamp64/www/worklogs/app/Task.php",
+		"/C/wamp64/www/worklogs/app/Customer.php",
+		"/C/wamp64/www/worklogs/resources/views/notes/add.blade.php",
+		"/C/wamp64/www/worklogs/public/js/main.js",
+		"/C/wamp64/www/worklogs/public/css/main.css",
+		"/C/wamp64/www/worklogs/app/Http/Controllers/WorkOrderController.php",
+		"/C/wamp64/www/worklogs/app/Http/Controllers/JobsController.php",
+		"/C/wamp64/www/worklogs/app/Http/Controllers/CustomersController.php",
+		"/C/wamp64/www/worklogs/resources/views/notes/index.blade.php",
+		"/C/wamp64/www/worklogs/app/Http/Controllers/MigrationController.php",
+		"/C/wamp64/www/worklogs/public/ConvertDatabase.php",
+		"/C/Temp/GetFreeSpace.ps1",
+		"/C/Tools/Scripts/Export_User_Settings.bat",
+		"/C/wamp64/www/worklogs/app/Http/routes.php",
+		"/C/wamp64/www/worklogs/resources/views/customers/add.blade.php",
+		"/C/wamp64/www/worklogs/composer.json",
+		"/C/wamp64/www/worklogs/resources/views/customers/edit.blade.php",
+		"/C/wamp64/www/worklogs/resources/views/customers/index.blade.php",
+		"/C/wamp64/www/worklogs/database/migrations/2018_10_19_195227_jobs_add_customer_old_field.php",
+		"/C/wamp64/www/worklogs/database/migrations/2018_11_02_112135_create_customer_id_field.php",
+		"/C/wamp64/www/worklogs/database/migrations/2018_11_02_112404_remove_phone_field.php",
+		"/C/wamp64/www/worklogs/resources/views/migration.blade.php",
+		"/C/wamp64/www/worklogs/database/migrations/2018_10_03_201646_create_customers_table.php",
+		"/C/wamp64/www/worklogs/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/C/wamp64/www/worklogs/public/index.php",
+		"/C/wamp64/www/worklogs/resources/views/master.blade.php",
+		"/C/wamp64/www/notes/public/js/app.js",
+		"/C/wamp64/www/notes/public/css/style.css",
+		"/C/wamp64/www/notes/routes/web.php",
+		"/C/wamp64/www/notes/resources/views/master.blade.php",
+		"/C/wamp64/www/notes/database/migrations/2018_09_17_155412_create_notes_table.php",
+		"/C/wamp64/www/notes/database/migrations/2018_09_17_155435_create_notebooks_table.php",
+		"/C/wamp64/www/worklogs/resources/views/notes/trash.blade.php",
+		"/C/wamp64/www/notes/app/Http/Controllers/NotesController.php",
+		"/C/wamp64/www/notes/app/User.php",
+		"/C/wamp64/www/notes/app/Http/Controllers/Auth/LoginController.php",
+		"/C/wamp64/www/notes/resources/views/notes/index.blade.php",
+		"/C/wamp64/www/notes/database/migrations/2018_04_23_150214_create_notes_table.php",
+		"/C/wamp64/www/notes/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/notes/routes/web.php",
+		"/C/Users/npcpro/Desktop/notes.app/css/style.css",
+		"/C/Users/npcpro/Desktop/notes.app/layout.html",
+		"/C/xampp/htdocs/notes/routes/api.php",
+		"/C/Users/npcpro/Desktop/SendFailureMessage.ps1",
+		"/C/xampp/htdocs/notes/resources/views/master.blade.php",
+		"/K/Links/land.ks",
+		"/C/wamp64/scripts/switchPhpVersion.php",
+		"/C/wamp64/scripts/wampserver.lib.php",
+		"/C/Users/npcpro/Desktop/layout.html",
+		"/C/wamp64/www/ServerChecks/css/style.css",
+		"/C/wamp64/www/ServerChecks/system/Server.php",
+		"/C/wamp64/www/ServerChecks/deleteserver.php",
+		"/C/wamp64/www/ServerChecks/editserver.php",
+		"/C/wamp64/www/ServerChecks/addserver.php",
+		"/C/wamp64/www/ServerChecks/checkservers.php",
+		"/C/wamp64/www/ServerChecks/index.php",
+		"/C/wamp64/www/SimpleServerCheck/Services/ServerStatus.php",
+		"/C/wamp64/www/SimpleServerCheck/App/servercheckin.php",
+		"/C/wamp64/www/SimpleServerCheck/App/runserverchecks.php",
+		"/C/wamp64/www/SimpleServerCheck/App/config/config.php",
+		"/C/wamp64/www/SimpleServerCheck/System/Config.php",
+		"/C/wamp64/www/SimpleServerCheck/Database/Server.php",
+		"/C/wamp64/www/technotes/resources/views/master.blade.php",
+		"/C/wamp64/www/technotes/resources/views/notes/index.blade.php",
+		"/C/wamp64/www/technotes/routes/web.php",
+		"/C/wamp64/www/technotes/public/css/main.css",
+		"/C/wamp64/www/inventory/resources/views/items/index.blade.php",
+		"/C/wamp64/www/fieldnotes/css/style.css",
+		"/C/wamp64/www/fieldnotes/js/main.js",
+		"/C/wamp64/www/fieldnotes/index.html",
+		"/C/wamp64/www/fieldnotes/style.css",
+		"/C/wamp64/www/technotes/app/Note.php",
+		"/C/wamp64/www/technotes/app/Http/Controllers/NotesController.php",
+		"/C/wamp64/www/technotes/public/css/style.css",
+		"/C/wamp64/www/technotes/resources/views/notes/edit.blade.php",
+		"/C/wamp64/www/technotes/resources/views/notes/add.blade.php",
+		"/C/wamp64/www/technotes/public/js/app.js",
+		"/C/wamp64/www/technotes/public/js/editor.js",
+		"/C/wamp64/www/technotes/database/migrations/2017_10_19_163306_create_notes_table.php",
+		"/C/wamp64/www/technotes/resources/views/layouts/app.blade.php",
+		"/C/wamp64/www/technotes/.env",
+		"/C/wamp64/www/technotes/app/Providers/AppServiceProvider.php",
+		"/C/wamp64/www/technotes/config/app.php",
+		"/W/worklogs/app/Http/Controllers/JobsController.php",
+		"/W/worklogs/resources/views/notes/add.blade.php",
+		"/W/worklogs/public/css/main.css",
+		"/W/worklogs/public/index.php",
+		"/C/Users/npcpro/Desktop/technotes/style.css",
+		"/C/wamp64/www/billboard/admin/index.php",
+		"/C/wamp64/www/billboard/Banner.php",
+		"/C/wamp64/www/mikeandmike/mobile/application/models/Jobs_model.php",
+		"/C/wamp64/www/mikeandmike/application/libraries/iCalendar.php",
+		"/C/wamp64/www/mikeandmike/application/controllers/Jobs.php",
+		"/C/wamp64/www/mikeandmike/mobile/assets/default.css",
+		"/C/wamp64/www/mikeandmike/application/views/jobs_add.php",
+		"/C/wamp64/www/mikeandmike/application/views/jobs_addattachment.php",
+		"/C/wamp64/www/mikeandmike/application/views/jobs_attachments.php",
+		"/C/wamp64/www/mikeandmike/application/views/jobs_calendar.php",
+		"/C/wamp64/www/mikeandmike/application/views/jobs_choosestore.php",
+		"/C/wamp64/www/mikeandmike/application/views/jobs_closed.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    \t\n",
+			",([0-9]+)",
+			",2420",
+			",([0-9]+)",
+			",\"",
+			"([0-9]+) ([A-Z ]+),\"([A-Z, 0-9]+)\"",
+			",",
+			", ",
+			"\"",
+			"([A-Z]+), ([A-Z]+) ([A-Z]+)",
+			"\"\"",
+			"\"\"\"",
+			"([A-Z]+), ([A-Z]+) ([A-Z]+)",
+			", ",
+			"\"",
+			"([A-Z]+), ([A-Z]+) ([A-Z]+)",
+			"\"\"\"",
+			", \"LEPORE 2, DR\"",
+			", \"LEPORE, DR\"",
+			"\"LEPORE 2, DR\"",
+			"\"LEPORE, DR\"",
+			"([0-9/]{10}),",
+			"([0-9:]{6} (AM|PM)),",
+			"^\\n",
+			"Date:, ([0-9/]+),,,",
+			",\"LEPORE 2, DR\"",
+			"\"LEPORE 2, DR\"",
+			"^\\n",
+			",\"LEPORE, DR\"",
+			"( [0-9/]{10}),",
+			"([0-9:]+ (AM|PM)),",
+			"Date:,([0-9/ ]+),,,",
+			"\"([A-Z]+), ([A-Z]+)",
+			"\"([A-Z]+), ([A-Z ]+)\"",
+			"([A-Z]+), ([A-Z ]+)\"",
+			"\"([A-Z]+), ([A-Z ]+)\"",
+			"([A-Z]+), ([A-Z ]+)",
+			"([A-Z]+), ([A-Z ])+",
+			"\"([A-Z]+), ([A-Z ])+\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",\"$1",
+			" ,\"$1",
+			" ",
+			"\"$1 $2 $3\"",
+			"",
+			"$2 $3 $1",
+			"",
+			"\"",
+			" $2 $3 $1",
+			" ",
+			"",
+			"$2 $3 $1",
+			"",
+			"\"\\1; \\2",
+			"\"\\1 \\2",
+			"\"\\2 \\1\"",
+			"\\2 \\1",
+			"\"$3 $2\"",
+			"\"\\3 \\2\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jobmanager.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
