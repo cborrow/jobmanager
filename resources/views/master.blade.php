@@ -15,11 +15,11 @@
 				</li>
 				<li>
 					<i class="fas fa-address-book"></i>
-					<a href="#">Browse Customers</a>
+					<a href="#">Manage Customers</a>
 				</li>
 				<li>
 					<i class="fas fa-clipboard-list"></i>
-					<a href="#">Browse Jobs</a>
+					<a href="#">Manage Jobs</a>
 				</li>
 				<li>
 					<i class="fas fa-users"></i>
@@ -43,7 +43,7 @@
 				<li class="nav-title">Jobs</li>
 				<li>
 					<i class="fas fa-clipboard-list"></i>
-					<a href="#">Active Jobs</a>
+					<a href="#">Todays Jobs</a>
 				</li>
 				<li>
 					<i class="fas fa-calendar-alt"></i>
