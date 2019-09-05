@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
 				"exe",
 				"executable_path"
 			],
@@ -168,10 +172,18 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp64/www/jobmanager"
+		"/C/wamp64/www/jobmanager",
+		"/C/wamp64/www/jobmanager/public",
+		"/C/wamp64/www/jobmanager/resources",
+		"/C/wamp64/www/jobmanager/resources/views",
+		"/C/wamp64/www/jobmanager/routes"
 	],
 	"file_history":
 	[
+		"/C/wamp64/www/jobmanager/routes/web.php",
+		"/C/wamp64/www/jobmanager/resources/views/master.blade.php",
+		"/C/wamp64/www/jobmanager/public/js/app.js",
+		"/C/wamp64/www/jobmanager/public/css/style.css",
 		"/C/wamp64/www/gsm/GSM-Web/app/GameServer.php",
 		"/C/wamp64/www/gsm/GSM-Web/public/js/web.js",
 		"/C/wamp64/www/gsm/GSM-Web/routes/web.php",
@@ -295,11 +307,7 @@
 		"/C/wamp64/www/mikeandmike/application/controllers/Jobs.php",
 		"/C/wamp64/www/mikeandmike/mobile/assets/default.css",
 		"/C/wamp64/www/mikeandmike/application/views/jobs_add.php",
-		"/C/wamp64/www/mikeandmike/application/views/jobs_addattachment.php",
-		"/C/wamp64/www/mikeandmike/application/views/jobs_attachments.php",
-		"/C/wamp64/www/mikeandmike/application/views/jobs_calendar.php",
-		"/C/wamp64/www/mikeandmike/application/views/jobs_choosestore.php",
-		"/C/wamp64/www/mikeandmike/application/views/jobs_closed.php"
+		"/C/wamp64/www/mikeandmike/application/views/jobs_addattachment.php"
 	],
 	"find":
 	{
@@ -403,7 +411,7 @@
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 41.0
 	},
 	"layout":
 	{
