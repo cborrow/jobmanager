@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateJobsTable extends Migration
+class CreateAssignedUsersTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,12 +13,10 @@ class CreateJobsTable extends Migration
      */
     public function up()
     {
-        Schema::create('jobs', function (Blueprint $table) {
+        Schema::create('assigned_users', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->integer('customer_id');
+            $table->integer('job_id');
             $table->integer('user_id');
-            $table->text('name');
-            $table->text('note');
             $table->timestamps();
         });
     }
@@ -30,6 +28,6 @@ class CreateJobsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('jobs');
+        Schema::dropIfExists('assigned_users');
     }
 }
