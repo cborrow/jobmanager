@@ -25,7 +25,7 @@ class CreateCustomersTable extends Migration
             $table->text('city');
             $table->text('state');
             $table->text('zip');
-            $table->text('notes');
+            $table->text('note');
             $table->timestamps();
         });
     }
